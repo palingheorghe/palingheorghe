@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i also make music: [soundcloud](https://soundcloud.com/yovngra)
+
 <!--
 **palingheorghe/palingheorghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
