@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-i also make music: [soundcloud](https://soundcloud.com/yovngra)
+🔭 I’m currently working on a new idea
+i also make music: [spotify](https://open.spotify.com/artist/6P0qrYSDgTGxj4FgIsaNlj?si=tt7IlbwOTFmOy-unLJxFhQ)
+grab my book: [Lightning-Fast Mobile App Development with Galio](https://www.amazon.com/gp/product/B098T8JKYG)
 
 <!--
 **palingheorghe/palingheorghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
