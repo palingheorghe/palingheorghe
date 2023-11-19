@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a new idea\
 i also make music: [spotify](https://open.spotify.com/artist/6P0qrYSDgTGxj4FgIsaNlj?si=tt7IlbwOTFmOy-unLJxFhQ)\
-grab my book: [Lightning-Fast Mobile App Development with Galio](https://www.amazon.com/gp/product/B098T8JKYG)\
+grab my book: [Lightning-Fast Mobile App Development with Galio](https://www.amazon.com/gp/product/B098T8JKYG)
 
 ⚡ technologies that I like right now: Next.JS, SwiftUI, NestJS, PostgreSQL, Docker
 <!--
